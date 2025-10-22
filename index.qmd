@@ -9,8 +9,8 @@ about:
 :::{#me}
 
 ## Goals
-- Gain experience and expertise in Biology
-- Attain a degree in Biology and eventually get a PhD in Microbiology
+#Gain experience and expertise in Biology
+#Attain a degree in Biology and eventually get a PhD in Microbiology
 
 ## Education
 - University of New Hampshire (2024-Present)
